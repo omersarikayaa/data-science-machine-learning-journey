@@ -6,12 +6,12 @@ I’m currently following Atil Samancioglu’s course. I use this space to save 
 
 ## What I’ve Studied
 
-* ✅ Python Fundamentals
-* ✅ Statistics Fundamentals
-* 🔄 NumPy — currently learning
-* ⏳ Pandas
-* ⏳ Machine Learning
-* ⏳ Deep Learning
+- ✅ Python Fundamentals
+- ✅ Statistics Fundamentals
+- ✅ NumPy Fundamentals
+- 🔄 Pandas — Currently learning
+- ⏳ Machine Learning
+- ⏳ Deep Learning
 
 ## What You’ll Find Here
 
